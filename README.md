@@ -6,7 +6,8 @@ This is an educational project I've been working on in my spare time to demystif
 ## What's this even about may you ask?
 The goal here is pretty simple: take these intimidating relativistic quantum equations and break them down step-by-step so they actually make sense. I walk through the derivations, explain what we're doing at (almost) every step (to the best of my ability) to hopefully build some intuition along the way.
 
-## Fair warning: This is a learning project written by someone learning alongside you. **under absolutely NO circumstances should you reference this work in any of your work**. There **are** mistakes in here! That's kind of the point though - this is meant to be a living document that gets better over time.
+## Fair warning:
+This is a learning project written by someone learning alongside you. **under absolutely NO circumstances should you reference this work in any of your work**. There **are** mistakes in here! That's kind of the point though - this is meant to be a living document that gets better over time.
 
 ## This is open source! (with some restrictions)
 
