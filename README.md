@@ -1,6 +1,6 @@
 # Relativistic Quantum Waves
 
-A comprehensive study of relativistic quantum wave mechanics.
+A -somewhat- comprehensive educational paper on relativistic quantum wave mechanics.
 
 ## Contents
 
