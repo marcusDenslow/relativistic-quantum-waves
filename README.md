@@ -56,3 +56,5 @@ Any PR that tries to use custom styling and does not use the ones provided in th
 ## License
 
 Feel free to use this for learning, teaching (not recommended, but shout me out if you do), or whatever. If you find it helpful, I've succeeded in my goal.
+
+Happy reading!
