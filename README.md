@@ -3,7 +3,7 @@
 This is an educational project I've been working on in my spare time to demystify some of the scarier (very scary imo) topics in quantum mechanics - specifically the Klein-Gordon and Dirac equations.
 
 
-## What's this even about may you ask?
+## What's this even about?
 The goal here is pretty simple: take these intimidating relativistic quantum equations and break them down step-by-step so they actually make sense. I walk through the derivations, explain what we're doing at (almost) every step (to the best of my ability) to hopefully build some intuition along the way.
 
 ## Fair warning:
